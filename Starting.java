@@ -7,7 +7,7 @@ float y;
 char z;
 String a; //this is string
 Scanner obj = new Scanner(System.in);
-System.out.println("enter a no.= ");
+System.out.println("enter a number= ");
 x=obj.nextInt();
 System.out.println("You have entered "+x+" ");
 System.out.println("Enter a num=");
